@@ -23,5 +23,7 @@ X-Gorgon and X-Khronos &amp; X-Ladon headers are required to call tiktok api.
 
 
 
+**Contact for api :** [https://t.me.derekapi](https://t.me.derekapi)
 **Contact for api :** [https://join.skype.com/invite/uP6BbtXR3enZ](https://join.skype.com/invite/uP6BbtXR3enZ)
+## telegram: @derekapi
 ## skype: live:.cid.b71feebe077d9294
