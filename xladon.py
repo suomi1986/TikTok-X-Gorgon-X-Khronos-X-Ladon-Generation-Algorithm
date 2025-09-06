@@ -2,7 +2,6 @@ import base64
 import binascii
 import hashlib
 
-
 def aid_random_md5(buffer):
     return hashlib.md5(buffer).digest()
 
